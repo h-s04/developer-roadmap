@@ -275,7 +275,6 @@
     "isCommunity": false,
     "featured": true,
     "jsonUrl": "/project/vue.json",
-    "landingPath": "/roadmaps/105-vue/landscape.md",
     "resourcesPath": "/roadmaps/105-vue/resources.md",
     "versions": [
       "latest",
@@ -287,6 +286,7 @@
       "url": "https://twitter.com/kamranahmedse"
     },
     "pdfUrl": "/pdfs/vue.pdf",
+    "contentPathsFilePath": "/roadmaps/105-vue/content-paths.json",
     "id": "vue",
     "metaPath": "/roadmaps/105-vue/meta.json",
     "isUpcoming": false
